@@ -8,3 +8,5 @@ The submission dependencies for the code is:
  - JSON
  - request 
  
+
+ The code executes for 3 cities and 3 specifications within them and the output is shared in a JSON file.
